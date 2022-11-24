@@ -1,3 +1,3 @@
 # Poolboy
 
-Brainfart package to test something
+Brainfart package to test useless micro optimisations in go.
